@@ -23,6 +23,11 @@ body {
 header {
   background-color: lightgray;
 }
+
+h1 {
+  font-family: "Oswald", sans-serif;
+}
+
 /* Main */
 main {
   background-color: rgb(173, 191, 230);
